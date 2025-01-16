@@ -39,7 +39,7 @@ const size_t ROS_QUEUE_SIZE = 10;
 
 const char BASE_FRAME_ID[] = "link1";
 
-const double ARM_JOINT_VEL = 100.0;  // rad/s
+const double ARM_JOINT_VEL = 3.0;  // rad/s
 
 // A class for reading the key inputs from the terminal
 class KeyboardReader
